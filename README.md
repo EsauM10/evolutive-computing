@@ -6,7 +6,7 @@ Algoritmo genético aplicado ao processo de evolução de uma imagem
 
 ![alien](https://user-images.githubusercontent.com/33939999/99411324-3c9b8380-28d2-11eb-84a0-45db00a8fabc.png)
 
-# Travelling Salesman
+## Travelling Salesman
 Algoritmo genético baseado em ordem aplicado à resolução do problema do caixeiro viajante
 - Cada cromossomo é uma lista de pontos representando cidades
 - O atributo fitness é calculado somando a distância entre as cidades de um determinado percurso
